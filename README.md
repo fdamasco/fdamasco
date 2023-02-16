@@ -1,6 +1,6 @@
 ### Hello! 👋 Welcome to my Github profile!
 
-My name is Fernanda <img src="https://user-images.githubusercontent.com/81257522/219254753-7939c87a-cd38-41f0-b643-1a035b414c70.png" width="40px">
+My name is Fernanda <img src="https://user-images.githubusercontent.com/81257522/219254753-7939c87a-cd38-41f0-b643-1a035b414c70.png" width="35px">
 
 
 - 🔭 I'm Python and Django developer with knowledge in creating REST APIs.
